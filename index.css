@@ -236,13 +236,16 @@ margin: 200px 0px 0px 136px;
 {
 	color: #FFB300;
 }
-.price
+.line
 {
 text-decoration: line-through;
+}
+.price
+{
 padding-right: 5px;
 }
 .discount{
-	color: #E40000;
+color: #E40000;
 }
 .colection-banner2
 {
